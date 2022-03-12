@@ -1,0 +1,7 @@
+txt1
+
+Create a swappingFile.py file.
+Create 2 sample text files and name them sample1.txt and sample2.txt
+Define a swapFileData function using def
+Use inputs to take the names of the files to swap.
+Open file1 and read it’s data and save it in a variable called data_a.

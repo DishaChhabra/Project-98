@@ -1,0 +1,7 @@
+txt2
+
+Open file2 and read its data and save it in a variable called data_b.
+Open file 1 in writing mode and write data_b to it.
+Open file 2 in writing mode and write data_a to it.
+Call the function.
+Save the code.
